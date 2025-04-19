@@ -1,0 +1,1 @@
+git@github.com:Kasiy36/ono-tebe-nado-fd.git
